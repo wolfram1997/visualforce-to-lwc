@@ -42,5 +42,6 @@
             "NumberOfEmployees": "99",
             "Owner.Name": "Jose Balim"
         }
-    ]
+    ],
+    "nextPageToken": 5
 }
